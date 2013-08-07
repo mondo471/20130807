@@ -5,5 +5,4 @@
 ### 見出し
 
 mondo471
- - mondo471
  - [googole](http://www.google.com)
